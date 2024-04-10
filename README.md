@@ -13,7 +13,7 @@
 
 # What is the purpose of this repo?
 
-This is a repository containing development resources for the Assembyline project.
+This is a repository containing development resources for the Assemblyline project.
 
 > "A scalable file triage and malware analysis system integrating the cyber security community's best tools!"
 
